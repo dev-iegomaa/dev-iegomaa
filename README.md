@@ -9,8 +9,8 @@
 <br />
 
 Hi, I'm Ibrhaim Esam, Backend Developer 🚀 from Egypt
-- 🐱‍🏍 Software Engineer at iSynclouds company
-- 📫 You can contact with me on : dev.ibrahimesam67@gmail.com
+- 🐱‍🏍 Software Engineer at Waffarha company
+- 📫 You can contact with me on : dev.ibrahimesam67@gmail.com & ibrahim.essam@waffarha.com
 
 ### 💎 Fav Quotes: 
 - "Think twice, code once". 
