@@ -1,16 +1,16 @@
-### Hi there 👋🏻 I'm Ibrahim Esam
+### Hi there 👋🏻 I'm Ibrahim Essam
 <a href="https://www.linkedin.com/in/ibrahim-esam-a8b222281/">
-  <img align="left" alt="Ibrahim esam Linkde-In" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ibrahim essam Linkde-In" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://web.facebook.com/profile.php?id=100095219773314">
-  <img align="left" alt="Ibrahim esam Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Ibrahim essam Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br />
 <br />
 
-Hi, I'm Ibrhaim Esam, Backend Developer 🚀 from Egypt
+Hi, I'm Ibrhaim Essam, Backend Developer 🚀 from Egypt
 - 🐱‍🏍 Software Engineer at Waffarha company
-- 📫 You can contact with me on : dev.ibrahimesam67@gmail.com & ibrahim.essam@waffarha.com
+- 📫 You can contact with me on : ibrahim.essam@waffarha.com
 
 ### 💎 Fav Quotes: 
 - "Think twice, code once". 
